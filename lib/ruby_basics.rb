@@ -12,7 +12,7 @@ def argue(phrase="I'm right and you're wrong!")
 end
 
 def greeting(greeting = "Hi there,", name = "Bobby!")
-puts = "#{greeting}, #{name}"
+puts "#{greeting}, #{name}"
 end
 greeting
 
